@@ -1,6 +1,8 @@
 # Azure-AI-Hackathon-Submission
 Submission for AzureAI Hackathon
 
+![Architectural Diagram](./Untitled%20Diagram.jpg)
+
 ## Inspiration
 All of our team members, like to invest, and we were always on a look out for a tool, which can send out TL;DR on finances, but highly customized, so we don't have to read news. A tool, that can not only tell us rates of our favorite stock, but in a reliable fashion answer, questions like "What will be the Impact of New GPT model, on Microsoft Stock" or "Will the change of President, impact my portfolio". We wanted a platform, that can give us quick summaries about stocks, analysis and news headlines of things, that matter to us.
 
